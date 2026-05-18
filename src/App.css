@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-color:indianred;
+  background-color: indianred;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -26,10 +26,9 @@ body {
   color: white;
   text-decoration: none;
   margin-left: 20px;
-  font-
-  weight: bold;
+  font-weight: bold;
 }
-.header h1{
+.header h1 {
   font-size: 330%;
 }
 
@@ -305,7 +304,7 @@ main {
 
 .footer {
   margin-top: auto;
-  background-color:slategray
+  background-color: slategray;
 }
 .section {
   min-height: 70vh;
